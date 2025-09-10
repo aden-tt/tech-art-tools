@@ -10,7 +10,6 @@ Includes resources for real-time engines (Unity, Unreal) and DCC applications (M
 ### Engines
 - **Unity** – Shaders, tools, plugins, editor/runtime scripts, UPM-ready packages.
 - **Unreal** – Plugins, shaders, utilities, Python/Blueprint scripts.
-- **Godot** – Add-ons, scripts, and example projects.
 
 ### DCC (Digital Content Creation)
 - **Maya** – Python/MEL scripts, shelves, plugins, modules.
