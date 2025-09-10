@@ -30,26 +30,11 @@ Includes resources for real-time engines (Unity, Unreal) and DCC applications (M
 
 ---
 
-## Getting Started
-Each folder has its own README with setup and usage notes.  
-For a quick overview:
-- Browse `/engines/` for Unity, Unreal, and Godot resources.
-- Browse `/dcc/` for Maya, Blender, Houdini, and other DCC tools.
-- See `/examples/` for runnable demo projects.
-
----
-
 ## Status
-This repository is actively evolving. Individual packages and tools may be experimental.  
-Changelogs inside each package track version history and breaking changes.
+Currently very early stage - only a handful of scripts so far.  
+The structure is set up for future projects and reusable packages.
 
 ---
 
 ## License
-MIT License (unless a subfolder/package specifies otherwise).
-
----
-
-## Notes
-- Screenshots and GIFs live under `/docs/images`.
-- Contributions are welcome, but this repo primarily serves as a personal collection of work and practice.
+MIT (unless noted otherwise in a package).
